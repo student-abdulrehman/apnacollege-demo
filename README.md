@@ -1,3 +1,3 @@
 # apnacollege-demo
-This is my first github project
-Author-AR
+This is my first github project.
+Author-AR.
